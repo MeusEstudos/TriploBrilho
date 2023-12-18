@@ -3,6 +3,8 @@
 O projeto Triplo Brilho visa trazer o terceiro diamante da ferramenta Duplo Diamante, que é muito utilizado no processo de design para divergir e convergir tudo que é relevante para o projeto. No terceiro diamante, é quando a solução encontrada é produzida efetivamente, podendo enfim estar nas mãos dos usuários para os quais ela foi projetada.
 
 Abaixo encontra-se uma configuração padrão do Locofy que ele mesmo incluiu ao ter realizado a exportação do protótipo lá no Figma utilizando o plugin do Locofy, eu já possuo esses recursos que ele citou em meu computador.
+
+[Acesse o projeto navegável do Triplo brilho](https://meusestudos.github.io/TriploBrilho/)
  
  
 ## locofy-html-css-project
