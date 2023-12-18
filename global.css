@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --m3-label-large: Roboto;
+
+  /* font sizes */
+  --m3-label-large-size: 0.88rem;
+
+  /* Colors */
+  --m3-sys-light-outline: #79747e;
+  --color-gray-100: #2c2c2c;
+  --color-gray-200: #121212;
+  --m3-sys-light-on-primary: #fff;
+}
+
+a {
+  font-weight: 900;
+  color: #121212;
+}
+
+a:hover {
+  color: #cb8200;
+}
